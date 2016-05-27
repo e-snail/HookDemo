@@ -10,9 +10,9 @@
     tools:context="bestpractice.hook.hookdemo.MainActivity">
 
     <TextView
-        android:id="@+id/helloworld"
+        android:id="@+id/helloworld_plugin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World Plugin Activity!" />
 
 </RelativeLayout>
